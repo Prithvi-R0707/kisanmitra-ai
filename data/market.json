@@ -1,0 +1,209 @@
+{
+  "crops": [
+    {
+      "id": "Paddy",
+      "cropKey": "crops.names.Paddy",
+      "defaultName": "Paddy",
+      "benchmarkPrice": 2300,
+      "mandis": [
+        {
+          "name": "Nagpur APMC",
+          "district": "Nagpur",
+          "districtKey": "Nagpur",
+          "state": "Maharashtra",
+          "stateKey": "Maharashtra",
+          "price": 2420,
+          "trend": "up",
+          "time": "10:30 AM",
+          "updated": "Today, 10:30 AM"
+        },
+        {
+          "name": "Amravati APMC",
+          "district": "Amravati",
+          "districtKey": "Amravati",
+          "state": "Maharashtra",
+          "stateKey": "Maharashtra",
+          "price": 2350,
+          "trend": "up",
+          "time": "11:00 AM",
+          "updated": "Today, 11:00 AM"
+        },
+        {
+          "name": "Wardha APMC",
+          "district": "Wardha",
+          "districtKey": "Wardha",
+          "state": "Maharashtra",
+          "stateKey": "Maharashtra",
+          "price": 2280,
+          "trend": "down",
+          "time": "09:45 AM",
+          "updated": "Today, 09:45 AM"
+        }
+      ]
+    },
+    {
+      "id": "Wheat",
+      "cropKey": "crops.names.Wheat",
+      "defaultName": "Wheat",
+      "benchmarkPrice": 2400,
+      "mandis": [
+        {
+          "name": "Indore Mandi",
+          "district": "Indore",
+          "districtKey": "Indore",
+          "state": "Madhya Pradesh",
+          "stateKey": "Madhya Pradesh",
+          "price": 2550,
+          "trend": "up",
+          "time": "11:15 AM",
+          "updated": "Today, 11:15 AM"
+        },
+        {
+          "name": "Bhopal Mandi",
+          "district": "Bhopal",
+          "districtKey": "Bhopal",
+          "state": "Madhya Pradesh",
+          "stateKey": "Madhya Pradesh",
+          "price": 2480,
+          "trend": "up",
+          "time": "10:45 AM",
+          "updated": "Today, 10:45 AM"
+        },
+        {
+          "name": "Ujjain Mandi",
+          "district": "Ujjain",
+          "districtKey": "Ujjain",
+          "state": "Madhya Pradesh",
+          "stateKey": "Madhya Pradesh",
+          "price": 2390,
+          "trend": "down",
+          "time": "10:00 AM",
+          "updated": "Today, 10:00 AM"
+        }
+      ]
+    },
+    {
+      "id": "Cotton",
+      "cropKey": "crops.names.Cotton",
+      "defaultName": "Cotton",
+      "benchmarkPrice": 7100,
+      "mandis": [
+        {
+          "name": "Rajkot APMC",
+          "district": "Rajkot",
+          "districtKey": "Rajkot",
+          "state": "Gujarat",
+          "stateKey": "Gujarat",
+          "price": 7450,
+          "trend": "up",
+          "time": "11:30 AM",
+          "updated": "Today, 11:30 AM"
+        },
+        {
+          "name": "Adilabad Mandi",
+          "district": "Adilabad",
+          "districtKey": "Adilabad",
+          "state": "Telangana",
+          "stateKey": "Telangana",
+          "price": 7320,
+          "trend": "up",
+          "time": "09:30 AM",
+          "updated": "Today, 09:30 AM"
+        },
+        {
+          "name": "Yavatmal APMC",
+          "district": "Yavatmal",
+          "districtKey": "Yavatmal",
+          "state": "Maharashtra",
+          "stateKey": "Maharashtra",
+          "price": 7050,
+          "trend": "down",
+          "time": "10:15 AM",
+          "updated": "Today, 10:15 AM"
+        }
+      ]
+    },
+    {
+      "id": "Soybean",
+      "cropKey": "crops.names.Soybean",
+      "defaultName": "Soybean",
+      "benchmarkPrice": 4600,
+      "mandis": [
+        {
+          "name": "Dewas Mandi",
+          "district": "Dewas",
+          "districtKey": "Dewas",
+          "state": "Madhya Pradesh",
+          "stateKey": "Madhya Pradesh",
+          "price": 4820,
+          "trend": "up",
+          "time": "11:00 AM",
+          "updated": "Today, 11:00 AM"
+        },
+        {
+          "name": "Latur APMC",
+          "district": "Latur",
+          "districtKey": "Latur",
+          "state": "Maharashtra",
+          "stateKey": "Maharashtra",
+          "price": 4710,
+          "trend": "down",
+          "time": "10:30 AM",
+          "updated": "Today, 10:30 AM"
+        },
+        {
+          "name": "Akola APMC",
+          "district": "Akola",
+          "districtKey": "Akola",
+          "state": "Maharashtra",
+          "stateKey": "Maharashtra",
+          "price": 4580,
+          "trend": "down",
+          "time": "09:15 AM",
+          "updated": "Today, 09:15 AM"
+        }
+      ]
+    },
+    {
+      "id": "Groundnut",
+      "cropKey": "crops.names.Groundnut",
+      "defaultName": "Groundnut",
+      "benchmarkPrice": 6300,
+      "mandis": [
+        {
+          "name": "Gondal APMC",
+          "district": "Rajkot",
+          "districtKey": "Rajkot",
+          "state": "Gujarat",
+          "stateKey": "Gujarat",
+          "price": 6680,
+          "trend": "up",
+          "time": "11:20 AM",
+          "updated": "Today, 11:20 AM"
+        },
+        {
+          "name": "Bikaner Mandi",
+          "district": "Bikaner",
+          "districtKey": "Bikaner",
+          "state": "Rajasthan",
+          "stateKey": "Rajasthan",
+          "price": 6450,
+          "trend": "up",
+          "time": "10:40 AM",
+          "updated": "Today, 10:40 AM"
+        },
+        {
+          "name": "Kurnool Market",
+          "district": "Kurnool",
+          "districtKey": "Kurnool",
+          "state": "Andhra Pradesh",
+          "stateKey": "Andhra Pradesh",
+          "price": 6220,
+          "trend": "down",
+          "time": "09:50 AM",
+          "updated": "Today, 09:50 AM"
+        }
+      ]
+    }
+  ]
+}

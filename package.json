@@ -1,0 +1,18 @@
+{
+  "name": "kisanmitra-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "dev:client": "npm run dev --prefix client",
+    "dev:server": "npm run dev --prefix server",
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client",
+    "i18n:translate": "node scripts/translate-locales.js",
+    "i18n:check": "node scripts/check-i18n.js",
+    "seed": "node server/src/scripts/seed.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.4"
+  }
+}
